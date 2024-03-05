@@ -1,3 +1,4 @@
+// DB 통신 담당
 import { sql } from '@vercel/postgres';
 import {
   CustomerField,
